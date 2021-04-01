@@ -6,10 +6,10 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/rangga-septian-hendiansyah-98029420a/) 
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/itzngga/)
 
-### &nbsp;About
+### ℹ️ &nbsp;About
 > I am a 17yo programmer, and i also grade 11 junior high school. i like about bots and anything automated, frameworks and libs. hope you all have good day 😃
 
-### &nbsp;Talking about Personal Stuffs
+### ℹ️ &nbsp;Talking about Personal Stuffs
 
 - 👨‍🎓 Experience Level: 2+ years
 
