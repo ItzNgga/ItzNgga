@@ -1,4 +1,4 @@
-<img alt="HiBanner" src="https://raw.githubusercontent.com/ItzNgga/ItzNgga/master/hi.gif" width='40' align="left"/><h2>Hey there! I'm Rangga</h2>
+<img alt="HiBanner" src="https://raw.githubusercontent.com/ItzNgga/ItzNgga/master/hi.gif" width='30' align="left"/><h2>Hey there! I'm Rangga</h2>
 <!-- ## 👋 &nbsp;Hello there! I'm Rangga -->
 
 ![banner](https://raw.githubusercontent.com/ItzNgga/ItzNgga/master/banner.jpeg)
