@@ -2,7 +2,8 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rangga-septian-hendiansyah-98029420a/) 
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/itzngga/)
 
-## <img src="https://raw.githubusercontent.com/ItzNgga/ItzNgga/master/hi.gif" width="30px"></h2> Hello There! I'm Rangga 
+<img alt="HiBanner" src="https://raw.githubusercontent.com/ItzNgga/ItzNgga/master/hi.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
+<!-- ## 👋 &nbsp;Hello there! I'm Rangga -->
 
 > I am a 17yo programmer, and i also grade 11 junior high school. i like about bots and anything automated, frameworks and libs. hope you all have good day 😃
 
