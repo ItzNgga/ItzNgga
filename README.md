@@ -7,13 +7,13 @@
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/itzngga/)
 
 ### ℹ️ &nbsp;About
-> I am a 17yo programmer, and i also grade 11 junior high school. i like about bots and anything automated, frameworks and libs. hope you all have good day 😃
+> I am a 18yo programmer. i like about bots and anything automated, frameworks and libs. hope you all have good day 😃
 
 ### ℹ️ &nbsp;Talking about Personal Stuffs
 
-- 👨‍🎓 Experience Level: 2+ years
+- 👨‍🎓 Experience Level: 3+ years
 
-- 💻 I’m currently learning TypeScript 🚀.
+- 💻 I’m currently learning React/FrontEnd Develop 🚀.
 
 - 🧩 Interested in: Technology, Android, and Web Development.
 
