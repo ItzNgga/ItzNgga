@@ -1,7 +1,6 @@
 ## 👋 &nbsp;Hello there! I'm Rangga
 
 ![banner](https://raw.githubusercontent.com/ItzNgga/ItzNgga/master/banner.jpeg)
-[<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>](https://api.whatsapp.com/send/?phone=6281297980063)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](https://inbox.google.com/mail/?view=cm&fs=1&to=rangganak094@gmail.com) 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/rangga-septian-hendiansyah-98029420a/) 
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/itzngga/)
