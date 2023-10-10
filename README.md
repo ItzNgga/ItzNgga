@@ -1,8 +1,10 @@
-## 👋 &nbsp;Hello there! I'm Rangga
+<div align="center"> 
+  ## 👋 &nbsp;Hello there! I'm Rangga
+  
+  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/rangga-septian-hendiansyah-98029420a/) 
+  [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/radzsxh)
 
-![banner](https://raw.githubusercontent.com/ItzNgga/ItzNgga/master/banner.jpeg)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/rangga-septian-hendiansyah-98029420a/) 
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/radzsxh)
+</div>
 
 ### ℹ️ &nbsp;About
 > I am a 20yo programmer. i like about web development and anything is automated, frameworks and libs. hope you all have good day 😃
@@ -56,9 +58,12 @@
 !-->
 
 ### ⚙️ &nbsp;GitHub Analytics
+---
 
-***
-<p align = "center">
-  <a href=""> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ItzNgga&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&hide_border=true&line_height=27&include_all_commits=true&count_private=true"> </a>
- <a href=""> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ItzNgga&theme=dark&hide_border=true&layout=compact"> </a>
-</p>
+|        Commit Streak        |
+|:--------------------------------:|
+|    [![Streaks](https://streak-stats.demolab.com/?user=itzngga&theme=midnight-purple)](https://streak-stats.demolab.com/)    |
+
+|    Stats    |    Top Languages    |
+| :---------------------: | :-------------------: |
+|    [![Stats](https://github-readme-stats.vercel.app/api?username=itzngga&hide=stars&show_icons=true&locale=en&hide_rank=true&custom_title=GitHub%20Stats&theme=midnight-purple)](https://github-readme-stats.vercel.app)    |    [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=itzngga&layout=compact&theme=midnight-purple)](https://github-readme-stats.vercel.app)    |
