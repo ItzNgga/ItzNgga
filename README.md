@@ -1,7 +1,5 @@
 <div align="center"> 
   <h2> 👋 &nbsp;Hello there! I'm Rangga </h2>
-  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/rangga-septian-hendiansyah-98029420a/) 
-
 </div>
 
 ### ℹ️ &nbsp;About
@@ -9,21 +7,21 @@
 
 ### ℹ️ &nbsp;Talking about Personal Stuffs
 
-- 👨‍🎓 Experience Level: 3+ years.
+- 👨‍🎓 Experience Level: 4+ years.
 
-- 💻 I’m currently work on Golang 🚀.
+- 💻 I’m currently work on Golang & Rust 🚀.
 
-- 🧩 Interested in: Technology, and Web Development.
+- 🧩 Interested in: Technology, Low-level, and Web Development.
 
 ### 🛠 &nbsp;Tech Talk
 
 - Languages: &nbsp;
 
   ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+  ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
   ![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
   ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 <!-- - Frameworks: &nbsp;
 
