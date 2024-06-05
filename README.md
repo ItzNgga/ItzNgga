@@ -3,7 +3,7 @@
 </div>
 
 ### ℹ️ &nbsp;About
-> I am a 20yo programmer. i like about web development and anything is automated, frameworks and libs. hope you all have good day 😃
+> I am a 21yo programmer. i like about web development and anything is automated, frameworks and libs. hope you all have good day 😃
 
 ### ℹ️ &nbsp;Talking about Personal Stuffs
 
